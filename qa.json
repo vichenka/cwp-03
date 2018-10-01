@@ -1,0 +1,18 @@
+
+[{
+"qa": "How are you ?",
+"goodAnsBad": ["Ivan", "Petrov"]
+},
+{
+"qa": "How old are you ?",
+"goodAnsBad": ["19", "20"]
+},
+{
+"qa": "Where are you from ?",
+"goodAnsBad": ["Pinsk", "Minsk"]
+},
+{
+"qa": "Do you like ice-cream ?",
+"goodAnsBad": ["Yes", "No"]
+}
+]
